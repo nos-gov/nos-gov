@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aimwarenet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="aimwarenet" height="30" width="40" /></a>
-<a href="https://instagram.com/sofreyoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sofreyoo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sofrekox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="sofrekox" height="30" width="40" /></a>
+<a href="https://twitter.com/aimwarenet" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="aimwarenet" height="30" width="40" /></a>
+<a href="https://instagram.com/sofreyoo" target="blank"><img align="center" src="https://studiokalisz.pl/wp-content/uploads/2018/11/instagram-logo-png-transparent-background-1.png" alt="sofreyoo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sofrekox" target="blank"><img align="center" src="https://www.ekspresowelajki.pl/wp-content/uploads/2020/04/YouTube.png" alt="sofrekox" height="30" width="40" /></a>
 </p>
